@@ -49,3 +49,16 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+env/
+venv/
+.ipynb_checkpoints
